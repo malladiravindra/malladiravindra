@@ -24,27 +24,37 @@
 
 ---
 
-### 🚀 About Me
+## ABOUT.ME
 
-- 🎓 Full Stack Developer with hands-on internship experience building complete applications across the stack — Django/DRF backends and React frontends
-- 🛠️ Comfortable owning a feature end-to-end: REST API design, PostgreSQL schema optimization, JWT authentication, and React UI development, including real-time features with WebSockets and Celery
-- 🏗️ Independently architected a full-stack budgeting platform with a React 19 + TypeScript frontend and automated Playwright test coverage
-- 💼 Seeking a **Full Stack Developer** role to build and ship user-facing features on both ends of the stack
-- 📫 Reach me at **malladiravindra1@gmail.com**
+```text
+┌─ ABOUT.ME ───────────────────────────────────────────────────┐
+│ $ whoami                                                     │
+│                                                              │
+│   Malladi Ravindra Babu                                      │
+│   Full Stack Developer · Fresher                             │
+│   B.Tech, Computer Science & Engineering                     │
+│   Vikas Group of Institutions, JNTU Kakinada (2020-2024)     │
+│   Hyderabad, India                                           │
+│                                                              │
+│ $ mission                                                    │
+│                                                              │
+│   Build practical full-stack applications using Python,      │
+│   Django, REST APIs and modern frontend technologies.        │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-### 🧰 Tech Stack
+## TECH.STACK
 
 **Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **Backend**
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/-Django%20REST%20Framework-A30000?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white)
 
 **Frontend**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -52,7 +62,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Databases**
+**Database**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
@@ -73,47 +83,159 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
----
-
-### 🌟 Featured Projects
-
-**[Budget Management Platform](https://github.com/malladiravindra)**
-Decoupled full-stack budgeting platform with a React 19 + TypeScript frontend and a Django REST Framework backend. Features a drag-and-drop Kanban UI, real-time WebSocket time tracking, Celery-driven background tasks, Excel/PDF financial reporting, and a Profit Margin KPI dashboard with role-based access control.
-`Django REST Framework` `React 19` `TypeScript` `PostgreSQL` `WebSockets` `Celery` `Redis`
-
-**[Automated Testing Suite (Playwright)](https://github.com/malladiravindra)**
-Migrated an E2E test suite from Selenium to Playwright using the Page Object Model, with automated RBAC and WebSocket coverage via Django Channels' `WebsocketCommunicator`, integrated into a CI pipeline with Postgres/Redis service containers.
-`Playwright` `Django Channels` `GitHub Actions` `Factory Boy`
-
-**[Automatic YouTube Scripting Tool](https://github.com/malladiravindra)**
-Python automation framework that reduced manual content-creation effort by 60%, saving 15+ hours per week, with OAuth 2.0 authentication and rate-limited API usage.
-`Python` `YouTube Data API v3` `OAuth 2.0`
-
-**[LinkedIn Clone UI](https://github.com/malladiravindra)**
-Responsive LinkedIn-style UI in Angular with profile management, a social feed, connections, and messaging interfaces built from reusable components.
-`Angular` `TypeScript` `Angular Material` `RxJS`
+**Currently Learning**
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+## SIGNALS
+
+```text
+┌─ SIGNALS ────────────────────────────────────────────────────┐
+│ $ signals --active                                           │
+│                                                              │
+│   [ACTIVE]   Python                                          │
+│   [ACTIVE]   Django / Django REST Framework                  │
+│   [ACTIVE]   React · JavaScript                              │
+│   [ACTIVE]   SQL (PostgreSQL · MySQL · SQLite)               │
+│   [ACTIVE]   Git · REST API Development                      │
+│   [ACTIVE]   Full Stack Development                          │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## PROJECTS
+
+```text
+┌─ PROJECT.01 ─────────────────────────────────────────────────┐
+│ AssetFlow — Enterprise IT Asset Management                   │
+│                                                              │
+│ IT asset management platform. Authentication is fully wired  │
+│ to a real Django/DRF + JWT backend; the remaining modules    │
+│ (assets, purchase orders, assignments, service, accessories, │
+│ reports, audit logs) are a Next.js UI prototype running on   │
+│ mock data, not yet connected to persisted CRUD.              │
+│                                                              │
+│ STATUS   IN DEVELOPMENT                                      │
+│ STACK    Next.js 16 · React 19 · TypeScript · Tailwind CSS 4 │
+│          · Django 5 · DRF · JWT · SQLite                     │
+│ REPO     Private organization repository                     │
+└──────────────────────────────────────────────────────────────┘
+```
+
+```text
+┌─ PROJECT.02 ─────────────────────────────────────────────────┐
+│ Budget Management Platform                                   │
+│                                                              │
+│ Decoupled full-stack budgeting platform with a drag-and-drop │
+│ Kanban UI, real-time WebSocket time tracking, Celery-driven  │
+│ background tasks, Excel/PDF financial reporting, and a       │
+│ Profit Margin KPI dashboard with role-based access control.  │
+│                                                              │
+│ STATUS   ACTIVE                                              │
+│ STACK    React 19 · TypeScript · Django REST Framework ·     │
+│          PostgreSQL · WebSockets · Celery · Redis            │
+│ REPO     github.com/malladiravindra                          │
+└──────────────────────────────────────────────────────────────┘
+```
+
+```text
+┌─ PROJECT.03 ─────────────────────────────────────────────────┐
+│ Automated Testing Suite (Playwright)                         │
+│                                                              │
+│ Migrated an E2E test suite from Selenium to Playwright using │
+│ the Page Object Model, with automated RBAC and WebSocket     │
+│ coverage via Django Channels' WebsocketCommunicator,         │
+│ integrated into a CI pipeline with Postgres/Redis service    │
+│ containers.                                                  │
+│                                                              │
+│ STATUS   COMPLETED                                           │
+│ STACK    Playwright · Django Channels · GitHub Actions ·     │
+│          Factory Boy                                         │
+│ REPO     github.com/malladiravindra                          │
+└──────────────────────────────────────────────────────────────┘
+```
+
+```text
+┌─ PROJECT.04 ─────────────────────────────────────────────────┐
+│ Automatic YouTube Scripting Tool                             │
+│                                                              │
+│ Python automation framework that reduced manual content-     │
+│ creation effort by 60%, saving 15+ hours per week, with      │
+│ OAuth 2.0 authentication and rate-limited API usage.         │
+│                                                              │
+│ STATUS   COMPLETED                                           │
+│ STACK    Python · YouTube Data API v3 · OAuth 2.0            │
+│ REPO     github.com/malladiravindra                          │
+└──────────────────────────────────────────────────────────────┘
+```
+
+```text
+┌─ PROJECT.05 ─────────────────────────────────────────────────┐
+│ LinkedIn Clone UI                                            │
+│                                                              │
+│ Responsive LinkedIn-style UI in Angular with profile         │
+│ management, a social feed, connections, and messaging        │
+│ interfaces built from reusable components.                   │
+│                                                              │
+│ STATUS   COMPLETED                                           │
+│ STACK    Angular · TypeScript · Angular Material · RxJS      │
+│ REPO     github.com/malladiravindra                          │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## GITHUB.STATS
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=malladiravindra&show_icons=true&theme=default&count_private=true" alt="Ravindra's GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malladiravindra&layout=compact&theme=default" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malladiravindra&theme=default" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=malladiravindra&background=0D1117&ring=4FC3F7&fire=29B6F6&currStreakLabel=F0F6FC&sideLabels=718096&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=718096&stroke=1E88A8&border=1E88A8" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🎓 Education
+## LEARNING.NODE
 
-**B.Tech, Computer Science & Engineering** — Vikas Group of Institutions, JNTU Kakinada (2020 – 2024)
+```text
+┌─ LEARNING.NODE ──────────────────────────────────────────────┐
+│ $ learning --active                                          │
+│                                                              │
+│   → FastAPI                                                  │
+│   → Docker                                                   │
+│   → AWS                                                      │
+│   → Advanced REST API design                                 │
+│   → API documentation                                        │
+│   → Webhooks                                                 │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-<p align="center">
-  <em>Open to Full Stack Developer, Django Developer, and Python Developer roles.</em>
-</p>
+## STATUS
+
+```text
+┌─ STATUS ─────────────────────────────────────────────────────┐
+│ ● OPEN_TO_WORK                                               │
+│                                                              │
+│   AVAILABLE_FOR                                              │
+│     Python Backend Development                               │
+│     Django / DRF                                             │
+│     Full Stack Development                                   │
+│     Software Developer Internships / Fresher Roles           │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## CONNECT
+
+```text
+┌─ CONNECT ────────────────────────────────────────────────────┐
+│ GITHUB     github.com/malladiravindra                        │
+│ LINKEDIN   linkedin.com/in/ravindra-babu-malladi             │
+│ EMAIL      malladiravindra1@gmail.com                        │
+└──────────────────────────────────────────────────────────────┘
+```
