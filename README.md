@@ -1,14 +1,25 @@
-<h1 align="center">Hi 👋, I'm Malladi Ravindra Babu</h1>
-<h3 align="center">Full Stack Developer | Python, Django, React & JavaScript</h3>
+<!-- PROFILE TERMINAL BANNER -->
 
 <p align="center">
-  <a href="https://linkedin.com/in/ravindra-babu-malladi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:malladiravindra1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <img src="https://img.shields.io/badge/Location-Hyderabad,%20India-informational?style=flat" alt="Location"/>
+  <img src="./profile-banner.svg" width="100%" alt="profile.sh --live" />
+</p>
+
+<!-- SOCIAL NAVIGATION -->
+
+<p align="center">
+  <a href="https://linkedin.com/in/ravindra-babu-malladi"><img src="./badge-linkedin.svg" height="40" alt="LinkedIn" /></a>
+  &nbsp;
+  <!-- No verified Instagram account found in the repo. Replace href="#" with your real profile URL. -->
+  <a href="#"><img src="./badge-instagram.svg" height="40" alt="Instagram (add your profile link)" /></a>
+  &nbsp;
+  <!-- No verified X/Twitter account found in the repo. Replace href="#" with your real profile URL. -->
+  <a href="#"><img src="./badge-x.svg" height="40" alt="X (add your profile link)" /></a>
+</p>
+
+<!-- PROFILE VIEWS -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=malladiravindra&style=flat-square&color=4FC3F7&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
@@ -93,10 +104,6 @@ Responsive LinkedIn-style UI in Angular with profile management, a social feed, 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=malladiravindra&theme=default" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=malladiravindra&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
 </p>
 
 ---
